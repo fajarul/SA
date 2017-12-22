@@ -1,0 +1,9 @@
+(--main-color:black;)
+
+.body{
+	background-color:var(--main-color);
+		background-image:url(web.jpg)
+}
+.fa fa-home{
+	color:black;
+}

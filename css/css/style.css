@@ -1,0 +1,160 @@
+
+body{
+    background: black;
+
+}
+.navbar-brand{
+    color:black;
+}
+nav{
+	font-size:20px;
+	background-color:gray;
+}
+	
+}
+a{
+	font-size:16px;
+}
+a {
+    color:black;
+    text-decoration: none;
+}
+a {
+    color: #f5f1f1;
+    text-decoration: none;
+}
+.logo{
+	margin-top:30px;
+	margin-right:20px;
+}
+}
+.home{
+	margin-top:30px;
+	background-color:black;
+}
+header{
+	background-color:silver;
+	color:white;
+}
+h3{
+	color:black;
+}
+p {
+	text-align:justify;
+	font-size:18px;
+	color:white;}
+.services{
+		background-color:black;
+		color:white;
+		text-align:center;
+		margin-top:30px;
+		width:99.5%;
+		margin-top:120px;
+		
+		
+
+}
+h2{
+	margin-top:30px;
+	color:white;
+}
+h5{
+	margin-top:50px;
+}
+.container{
+	margin-top:70px;
+}
+span{
+	text-align:center;
+}
+.fa-circle {
+	color:#73207a;
+}
+.about{
+		background-color:black;
+		color:white;
+		text-align:center;
+		margin-top:30px;
+		width:99.5%;
+		margin-top:50px;
+}
+a{
+	border-radius: 10px 10px 10px 10px;
+	border: 3px;
+	color: red;
+	
+}
+h4{
+	color:black;
+	background-color:white;
+}
+h5{
+	text-align:center;
+}
+.fa-user{
+	color:#73207a;
+	background-color:white;
+
+}
+.fa-suitcase{
+		color:#73207a;
+	background-color:white;
+}
+.fa-bullseye{
+		color:#73207a;
+	background-color:white;
+}
+.about{
+		background-color:white;
+		color:black;
+		text-align:center;
+		margin-top:30px;
+		width:99.5%;
+}
+.testomonial{
+		color:black;
+		text-align:center;
+		margin-top:30px;
+		width:99.5%;
+		
+}
+h2{
+	margin-top:50px;
+}
+.contact{
+		text-align:center;
+		margin:0 auto;
+		width:90.5%;
+		
+
+
+}
+footer{
+	background=f2f9faff&noise=0d0b0c&density=20&opacity=84
+}
+.fa-facebook{
+	padding:15px;
+}
+.fa-twitter{
+	padding:15px;
+}
+.fa-envelope-o{
+	padding:15px;
+}
+.fa-headphones{
+	padding:15px;
+}
+.fa-instagram{
+	padding:15px;
+}
+.fa-linkedin{
+	padding:15px;
+}
+.fa-pinterest{
+	padding:15px;
+}
+.video{
+	-webkit-box-shadow: 1px 1px 18px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 18px 5px rgba(0,0,0,0.75);
+box-shadow: 1px 1px 18px 5px rgba(0,0,0,0.75);
+}
